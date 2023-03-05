@@ -13,6 +13,7 @@ public class Test2 <E>{
 
 
     public static void main(String[] args) {
+        int a=1;
         Test2 aa=new Test2();
         aa.a("5645");
         aa.a(5454);
